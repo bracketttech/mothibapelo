@@ -1,0 +1,2 @@
+*.mothibapelogroup filter=lfs diff=lfs merge=lfs -text
+*mothibapelogroup.zip filter=lfs diff=lfs merge=lfs -text
